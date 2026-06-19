@@ -4,8 +4,8 @@ import pandas as pd
 import os,re
 import time
 def process_email():
-        EMAIL = "pythonmantra@gmail.com"
-        PASSWORD = "kvvrriniioxkbobt"
+        EMAIL = "Your Gmail id"
+        PASSWORD = "your app password with 16 characters"
         EXCEL_FILE = "patients.xlsx"
 
         # create file if not exists 
